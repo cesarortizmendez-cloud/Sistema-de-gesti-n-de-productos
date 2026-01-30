@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "sku": "PTA001",
+    "nombre": "puerta terciado",
+    "categoria": "Ferretería",
+    "precio": 19000.0,
+    "stock": 10,
+    "activo": true,
+    "creado_en": "2026-01-29 19:44:10"
+  },
+  {
+    "sku": "MAN001",
+    "nombre": "Manzana verde",
+    "categoria": "Alimentos",
+    "precio": 2500.0,
+    "stock": 50,
+    "activo": true,
+    "creado_en": "2026-01-29 20:01:25"
+  },
+  {
+    "sku": "PTA002",
+    "nombre": "puerta mdf 45x80x200",
+    "categoria": "Ferretería",
+    "precio": 35000.0,
+    "stock": 100,
+    "activo": true,
+    "creado_en": "2026-01-29 20:02:47"
+  },
+  {
+    "sku": "PTA003",
+    "nombre": "puerta importada",
+    "categoria": "Ferretería",
+    "precio": 27000.0,
+    "stock": 30,
+    "activo": true,
+    "creado_en": "2026-01-29 20:07:08"
+  }
+]

@@ -1,8 +1,17 @@
-.venv/
-__pycache__/
-*.pyc
-dist/
-build/
-*.spec
-exports/
-.DS_Store
+# --- Entorno virtual --- 
+.venv/                                   # Carpeta del entorno virtual (no se sube al repo)
+
+# --- Python cache ---
+__pycache__/                             # Caché de Python
+*.pyc                                    # Archivos compilados
+
+# --- PyInstaller ---
+dist/                                    # Carpeta donde queda el .exe
+build/                                   # Carpeta temporal de build
+*.spec                                   # Archivo spec de PyInstaller
+
+# --- Exportaciones generadas ---
+exports/                                 # Carpeta para reportes generados por el usuario
+
+# --- Otros ---
+.DS_Store                                # Archivo de macOS (por si aparece)
