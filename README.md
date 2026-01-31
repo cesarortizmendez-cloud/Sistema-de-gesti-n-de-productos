@@ -91,7 +91,7 @@ En cuanto a la calidad de datos, el sistema incorpora un módulo explícito de v
 
 # Descripción de Módulos y Funciones (Lógica de Operación)
 
-A continuación se describe, en tercera persona, cada módulo del proyecto, identificando sus funciones y explicando cómo opera la lógica interna de cada una. La explicación se enfoca en el rol de cada archivo dentro de la arquitectura modular y en el flujo de datos desde la interfaz hasta la persistencia en JSON y la generación/importación de reportes.
+A continuación se describe, cada módulo del proyecto, identificando sus funciones y explicando cómo opera la lógica interna de cada una. La explicación se enfoca en el rol de cada archivo dentro de la arquitectura modular y en el flujo de datos desde la interfaz hasta la persistencia en JSON y la generación/importación de reportes.
 
 ---
 
